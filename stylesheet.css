@@ -2,6 +2,11 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+.me{
+    width: 35%;
+    float: right;
+}
+
 /* adapted from https://www.w3schools.com/howto/howto_css_responsive_header.asp*/
 /* Style the header with a grey background and some padding */
 .header {
