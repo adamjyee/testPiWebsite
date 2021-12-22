@@ -69,3 +69,15 @@
     border-style: solid;
     border-color: blue;
 }
+
+#github img {
+    margin-right: 1%;
+    float: right;
+    width: 5%;
+}
+
+#linkedIn img {
+    margin-right: 2%;
+    float: right;
+    width: 3% ;
+}
