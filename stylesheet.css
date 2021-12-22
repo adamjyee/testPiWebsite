@@ -1,6 +1,5 @@
-.testImage{
-    width: 35%;
-    float: right;
+.body {
+    font-family: 'Courier New', Courier, monospace;
 }
 
 /* adapted from https://www.w3schools.com/howto/howto_css_responsive_header.asp*/
@@ -58,6 +57,11 @@
     }
   }
 
+.testImage {
+    width: 35%;
+    float: right;
+}
+
 #github {
     background-color: lightgrey;
     border-style: solid;
@@ -90,7 +94,8 @@
 
 #universityExtracurricular {
     border-style: solid;
-    border-color: navy;
+    border-color: blue;
+    background-color: rgb(255, 236, 236);
 }
 
 #scouts {
